@@ -1,0 +1,5 @@
+/data
+/virtualenv
+data
+data_split/
+models/
