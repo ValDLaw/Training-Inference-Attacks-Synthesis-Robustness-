@@ -1,5 +1,6 @@
 /data
 /virtualenv
+/.venv
 data
 data_split/
 models/
